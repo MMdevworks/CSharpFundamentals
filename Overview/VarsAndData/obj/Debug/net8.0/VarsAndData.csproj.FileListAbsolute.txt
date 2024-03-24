@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/bin/Debug/net8.0/VarsAndData
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/bin/Debug/net8.0/VarsAndData.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/bin/Debug/net8.0/VarsAndData.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/bin/Debug/net8.0/VarsAndData.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/bin/Debug/net8.0/VarsAndData.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/obj/Debug/net8.0/refint/VarsAndData.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/obj/Debug/net8.0/VarsAndData.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/VarsAndData/obj/Debug/net8.0/ref/VarsAndData.dll
