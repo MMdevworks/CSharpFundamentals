@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/obj/Debug/net8.0/Conditional-if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/obj/Debug/net8.0/Conditional-if.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/obj/Debug/net8.0/Conditional-if.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/obj/Debug/net8.0/Conditional-if.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/obj/Debug/net8.0/Conditional-if.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/bin/Debug/net8.0/Conditional-if
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/bin/Debug/net8.0/Conditional-if.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/bin/Debug/net8.0/Conditional-if.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/bin/Debug/net8.0/Conditional-if.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/bin/Debug/net8.0/Conditional-if.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/obj/Debug/net8.0/Conditional-if.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/obj/Debug/net8.0/refint/Conditional-if.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/obj/Debug/net8.0/Conditional-if.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/obj/Debug/net8.0/Conditional-if.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-if/obj/Debug/net8.0/ref/Conditional-if.dll

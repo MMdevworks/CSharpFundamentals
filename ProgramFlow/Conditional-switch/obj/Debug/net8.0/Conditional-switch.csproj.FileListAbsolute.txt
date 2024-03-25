@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/bin/Debug/net8.0/Conditional-switch
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/bin/Debug/net8.0/Conditional-switch.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/bin/Debug/net8.0/Conditional-switch.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/bin/Debug/net8.0/Conditional-switch.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/bin/Debug/net8.0/Conditional-switch.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/obj/Debug/net8.0/Conditional-switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/obj/Debug/net8.0/Conditional-switch.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/obj/Debug/net8.0/Conditional-switch.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/obj/Debug/net8.0/Conditional-switch.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/obj/Debug/net8.0/Conditional-switch.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/obj/Debug/net8.0/Conditional-switch.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/obj/Debug/net8.0/refint/Conditional-switch.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/obj/Debug/net8.0/Conditional-switch.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/obj/Debug/net8.0/Conditional-switch.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/Conditional-switch/obj/Debug/net8.0/ref/Conditional-switch.dll
