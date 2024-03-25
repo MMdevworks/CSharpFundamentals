@@ -1,0 +1,16 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/obj/Debug/net8.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/obj/Debug/net8.0/Comments.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/obj/Debug/net8.0/Comments.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/obj/Debug/net8.0/Comments.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/obj/Debug/net8.0/Comments.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/bin/Debug/net8.0/Comments
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/bin/Debug/net8.0/Comments.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/bin/Debug/net8.0/Comments.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/bin/Debug/net8.0/Comments.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/bin/Debug/net8.0/Comments.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/bin/Debug/net8.0/Comments.xml
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/obj/Debug/net8.0/Comments.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/obj/Debug/net8.0/refint/Comments.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/obj/Debug/net8.0/Comments.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/obj/Debug/net8.0/Comments.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Comments/obj/Debug/net8.0/ref/Comments.dll
