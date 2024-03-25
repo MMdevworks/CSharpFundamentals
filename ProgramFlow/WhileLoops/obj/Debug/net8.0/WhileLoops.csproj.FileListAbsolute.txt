@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/bin/Debug/net8.0/WhileLoops
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/bin/Debug/net8.0/WhileLoops.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/bin/Debug/net8.0/WhileLoops.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/bin/Debug/net8.0/WhileLoops.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/bin/Debug/net8.0/WhileLoops.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/obj/Debug/net8.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/obj/Debug/net8.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/obj/Debug/net8.0/WhileLoops.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/obj/Debug/net8.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/obj/Debug/net8.0/WhileLoops.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/obj/Debug/net8.0/WhileLoops.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/obj/Debug/net8.0/refint/WhileLoops.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/obj/Debug/net8.0/WhileLoops.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/obj/Debug/net8.0/WhileLoops.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/ProgramFlow/WhileLoops/obj/Debug/net8.0/ref/WhileLoops.dll
