@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/obj/Debug/net8.0/Parsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/obj/Debug/net8.0/Parsing.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/obj/Debug/net8.0/Parsing.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/obj/Debug/net8.0/Parsing.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/obj/Debug/net8.0/Parsing.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/bin/Debug/net8.0/Parsing
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/bin/Debug/net8.0/Parsing.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/bin/Debug/net8.0/Parsing.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/bin/Debug/net8.0/Parsing.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/bin/Debug/net8.0/Parsing.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/obj/Debug/net8.0/Parsing.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/obj/Debug/net8.0/refint/Parsing.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/obj/Debug/net8.0/Parsing.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/obj/Debug/net8.0/Parsing.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Parsing/obj/Debug/net8.0/ref/Parsing.dll
