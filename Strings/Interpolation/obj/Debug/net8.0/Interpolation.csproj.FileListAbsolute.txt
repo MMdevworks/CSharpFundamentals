@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/obj/Debug/net8.0/Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/obj/Debug/net8.0/Interpolation.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/obj/Debug/net8.0/Interpolation.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/obj/Debug/net8.0/Interpolation.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/obj/Debug/net8.0/Interpolation.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/bin/Debug/net8.0/Interpolation
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/bin/Debug/net8.0/Interpolation.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/bin/Debug/net8.0/Interpolation.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/bin/Debug/net8.0/Interpolation.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/bin/Debug/net8.0/Interpolation.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/obj/Debug/net8.0/Interpolation.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/obj/Debug/net8.0/refint/Interpolation.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/obj/Debug/net8.0/Interpolation.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/obj/Debug/net8.0/Interpolation.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Interpolation/obj/Debug/net8.0/ref/Interpolation.dll
