@@ -25,17 +25,25 @@ namespace VarsAndData
             string[] strs = {"one","two","three"};
 
             // TODO: Print the values using a Formatting String
-            // Composite formatting is useful for creating a single string out of multiple values, including variables, literals, or expressions, formatted in a specific way
+            // Composite formatting is useful for creating a single string out of multiple values, including variables, literals, or expressions, formatted in a specific way think of {#} as an index for the values
             Console.WriteLine("{0},{1},{2},{3},{4},{5},{6},{7}",i,c,b,str,f,d,x,z);
 
             // TODO: "null" means "no value"
-
+            object obj = null;
+            Console.WriteLine(obj);
 
             // TODO: Implicit conversion between types
-
+            long bignum;
+            bignum = i;
+            Console.WriteLine("{0}", bignum);
 
             // TODO: Explicit conversions
-
+            // int to float
+            float i_to_f = (float)i;
+            Console.WriteLine("{0}", i_to_f);
+            // float to int
+            int f_to_i = (int)f;
+            Console.WriteLine("{0}", f_to_i);
         }
     }
 }

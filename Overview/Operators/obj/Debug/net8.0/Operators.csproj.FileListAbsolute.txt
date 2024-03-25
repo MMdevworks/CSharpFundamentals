@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/bin/Debug/net8.0/Operators
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/bin/Debug/net8.0/Operators.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/bin/Debug/net8.0/Operators.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/bin/Debug/net8.0/Operators.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/bin/Debug/net8.0/Operators.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/obj/Debug/net8.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/obj/Debug/net8.0/Operators.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/obj/Debug/net8.0/Operators.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/obj/Debug/net8.0/Operators.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/obj/Debug/net8.0/Operators.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/obj/Debug/net8.0/Operators.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/obj/Debug/net8.0/refint/Operators.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/obj/Debug/net8.0/Operators.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/obj/Debug/net8.0/Operators.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/Operators/obj/Debug/net8.0/ref/Operators.dll
