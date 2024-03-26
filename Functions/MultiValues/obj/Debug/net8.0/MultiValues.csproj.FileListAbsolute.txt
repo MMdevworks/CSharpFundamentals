@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/bin/Debug/net8.0/MultiValues
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/bin/Debug/net8.0/MultiValues.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/bin/Debug/net8.0/MultiValues.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/bin/Debug/net8.0/MultiValues.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/bin/Debug/net8.0/MultiValues.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/obj/Debug/net8.0/MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/obj/Debug/net8.0/MultiValues.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/obj/Debug/net8.0/MultiValues.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/obj/Debug/net8.0/MultiValues.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/obj/Debug/net8.0/MultiValues.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/obj/Debug/net8.0/MultiValues.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/obj/Debug/net8.0/refint/MultiValues.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/obj/Debug/net8.0/MultiValues.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/obj/Debug/net8.0/MultiValues.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/MultiValues/obj/Debug/net8.0/ref/MultiValues.dll
