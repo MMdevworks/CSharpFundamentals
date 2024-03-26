@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/bin/Debug/net8.0/RefAndOutParams
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/bin/Debug/net8.0/RefAndOutParams.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/bin/Debug/net8.0/RefAndOutParams.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/bin/Debug/net8.0/RefAndOutParams.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/bin/Debug/net8.0/RefAndOutParams.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/obj/Debug/net8.0/RefAndOutParams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/obj/Debug/net8.0/RefAndOutParams.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/obj/Debug/net8.0/RefAndOutParams.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/obj/Debug/net8.0/RefAndOutParams.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/obj/Debug/net8.0/RefAndOutParams.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/obj/Debug/net8.0/RefAndOutParams.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/obj/Debug/net8.0/refint/RefAndOutParams.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/obj/Debug/net8.0/RefAndOutParams.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/obj/Debug/net8.0/RefAndOutParams.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/RefAndOutParams/obj/Debug/net8.0/ref/RefAndOutParams.dll
