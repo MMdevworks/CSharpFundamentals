@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/bin/Debug/net8.0/DefaultParams
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/bin/Debug/net8.0/DefaultParams.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/bin/Debug/net8.0/DefaultParams.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/bin/Debug/net8.0/DefaultParams.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/bin/Debug/net8.0/DefaultParams.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/obj/Debug/net8.0/DefaultParams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/obj/Debug/net8.0/DefaultParams.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/obj/Debug/net8.0/DefaultParams.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/obj/Debug/net8.0/DefaultParams.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/obj/Debug/net8.0/DefaultParams.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/obj/Debug/net8.0/DefaultParams.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/obj/Debug/net8.0/refint/DefaultParams.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/obj/Debug/net8.0/DefaultParams.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/obj/Debug/net8.0/DefaultParams.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Functions/DefaultParams/obj/Debug/net8.0/ref/DefaultParams.dll
