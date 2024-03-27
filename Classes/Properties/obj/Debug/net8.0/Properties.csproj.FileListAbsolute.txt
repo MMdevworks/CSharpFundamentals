@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/obj/Debug/net8.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/obj/Debug/net8.0/Properties.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/obj/Debug/net8.0/Properties.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/obj/Debug/net8.0/Properties.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/obj/Debug/net8.0/Properties.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/bin/Debug/net8.0/Properties
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/bin/Debug/net8.0/Properties.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/bin/Debug/net8.0/Properties.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/bin/Debug/net8.0/Properties.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/bin/Debug/net8.0/Properties.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/obj/Debug/net8.0/Properties.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/obj/Debug/net8.0/refint/Properties.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/obj/Debug/net8.0/Properties.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/obj/Debug/net8.0/Properties.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Properties/obj/Debug/net8.0/ref/Properties.dll

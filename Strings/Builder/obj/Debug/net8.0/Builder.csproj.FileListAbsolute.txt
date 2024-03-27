@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/obj/Debug/net8.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/obj/Debug/net8.0/Builder.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/obj/Debug/net8.0/Builder.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/obj/Debug/net8.0/Builder.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/obj/Debug/net8.0/Builder.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/bin/Debug/net8.0/Builder
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/bin/Debug/net8.0/Builder.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/bin/Debug/net8.0/Builder.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/bin/Debug/net8.0/Builder.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/bin/Debug/net8.0/Builder.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/obj/Debug/net8.0/Builder.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/obj/Debug/net8.0/refint/Builder.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/obj/Debug/net8.0/Builder.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/obj/Debug/net8.0/Builder.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Strings/Builder/obj/Debug/net8.0/ref/Builder.dll

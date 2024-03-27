@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/bin/Debug/net8.0/Inheritance
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll

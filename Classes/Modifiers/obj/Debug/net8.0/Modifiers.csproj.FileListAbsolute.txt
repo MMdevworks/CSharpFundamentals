@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/bin/Debug/net8.0/Modifiers
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/bin/Debug/net8.0/Modifiers.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/bin/Debug/net8.0/Modifiers.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/bin/Debug/net8.0/Modifiers.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/bin/Debug/net8.0/Modifiers.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/obj/Debug/net8.0/Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/obj/Debug/net8.0/Modifiers.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/obj/Debug/net8.0/Modifiers.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/obj/Debug/net8.0/Modifiers.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/obj/Debug/net8.0/Modifiers.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/obj/Debug/net8.0/Modifiers.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/obj/Debug/net8.0/refint/Modifiers.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/obj/Debug/net8.0/Modifiers.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/obj/Debug/net8.0/Modifiers.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Classes/Modifiers/obj/Debug/net8.0/ref/Modifiers.dll
