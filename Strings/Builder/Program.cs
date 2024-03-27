@@ -1,6 +1,7 @@
 ﻿// using System;
 using System.Text;
 
+// StringBuilder class can be used when you want to modify a string without creating a new object. For example, using the StringBuilder class can boost performance when concatenating many strings together in a loop.
 
 int jumpCount = 10;
 string[] animals = {"goats", "cats", "pigs"};
