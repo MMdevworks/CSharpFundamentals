@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/bin/Debug/net8.0/Arrays
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/bin/Debug/net8.0/Arrays.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/bin/Debug/net8.0/Arrays.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/obj/Debug/net8.0/Arrays.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/obj/Debug/net8.0/Arrays.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Arrays/obj/Debug/net8.0/ref/Arrays.dll

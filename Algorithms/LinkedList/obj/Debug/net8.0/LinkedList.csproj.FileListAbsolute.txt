@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/bin/Debug/net8.0/LinkedList
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/bin/Debug/net8.0/LinkedList.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/bin/Debug/net8.0/LinkedList.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/bin/Debug/net8.0/LinkedList.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/bin/Debug/net8.0/LinkedList.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/obj/Debug/net8.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/obj/Debug/net8.0/LinkedList.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/obj/Debug/net8.0/LinkedList.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/obj/Debug/net8.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/obj/Debug/net8.0/LinkedList.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/obj/Debug/net8.0/LinkedList.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/obj/Debug/net8.0/refint/LinkedList.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/obj/Debug/net8.0/LinkedList.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/obj/Debug/net8.0/LinkedList.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/LinkedList/obj/Debug/net8.0/ref/LinkedList.dll
