@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/bin/Debug/net8.0/StackAndQueue
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/bin/Debug/net8.0/StackAndQueue.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/bin/Debug/net8.0/StackAndQueue.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/bin/Debug/net8.0/StackAndQueue.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/bin/Debug/net8.0/StackAndQueue.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/obj/Debug/net8.0/StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/obj/Debug/net8.0/StackAndQueue.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/obj/Debug/net8.0/StackAndQueue.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/obj/Debug/net8.0/StackAndQueue.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/obj/Debug/net8.0/StackAndQueue.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/obj/Debug/net8.0/StackAndQueue.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/obj/Debug/net8.0/refint/StackAndQueue.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/obj/Debug/net8.0/StackAndQueue.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/obj/Debug/net8.0/StackAndQueue.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/StackAndQueue/obj/Debug/net8.0/ref/StackAndQueue.dll
