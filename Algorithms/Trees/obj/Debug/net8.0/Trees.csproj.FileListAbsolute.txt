@@ -1,0 +1,15 @@
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/obj/Debug/net8.0/Trees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/obj/Debug/net8.0/Trees.AssemblyInfoInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/obj/Debug/net8.0/Trees.AssemblyInfo.cs
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/obj/Debug/net8.0/Trees.csproj.CoreCompileInputs.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/obj/Debug/net8.0/Trees.sourcelink.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/bin/Debug/net8.0/Trees
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/bin/Debug/net8.0/Trees.deps.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/bin/Debug/net8.0/Trees.runtimeconfig.json
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/bin/Debug/net8.0/Trees.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/bin/Debug/net8.0/Trees.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/obj/Debug/net8.0/Trees.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/obj/Debug/net8.0/refint/Trees.dll
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/obj/Debug/net8.0/Trees.pdb
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/obj/Debug/net8.0/Trees.genruntimeconfig.cache
+/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Algorithms/Trees/obj/Debug/net8.0/ref/Trees.dll
