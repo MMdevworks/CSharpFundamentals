@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/HelloWorld/HelloWorld.csproj": {}
+    "/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/HelloWorld/HelloWorld.csproj": {
+    "/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/HelloWorld/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/Users/mariemarcos/.nuget/packages/",
-        "outputPath": "/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/HelloWorld/obj/",
+        "outputPath": "/Users/mariemarcos/My Local Documents/Dev/Csharp/CSharpFundamentals/Overview/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariemarcos/.nuget/NuGet/NuGet.Config"
